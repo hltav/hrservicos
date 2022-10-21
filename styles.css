@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+}
+@font-face {
+    font-family: "Benguiat";
+    src: url("./assets/fontes/Benguiat_Regular.ttf") format("truetype"), url("./assets/fontes/Benguiat_Regular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Benguiat Bold";
+    src: url("./assets/fontes/Benguiat_Bold.ttf") format("truetype"), url("./assets/fontes/Benguiat_Bold.otf") format("opentype");
+}
+body{
+    /* background: rgb(24,96,219);
+    background: linear-gradient(318deg, rgba(24,96,219,0.85) 0%, rgba(204,217,237,0.8491771708683473) 28%, rgba(255,255,255,1) 50%, rgba(204,217,237,0.85) 72%, rgba(24,96,219,0.85) 100%); */
+    background: rgb(62,64,149);
+    background: linear-gradient(318deg, rgba(62,64,149,1) 0%, rgba(62,64,149,1) 25%, rgba(112,156,233,1) 50%, rgba(24,96,219,1) 75%, rgba(24,96,219,0.85) 100%);
+    background-size: 100%;
+    
+}
+
+header{
+   text-align: center;
+   margin: 30px 0 40px 0;
+}
+nav{
+   text-align: center;
+}
+
+.menu{
+    
+    font-family: "Benguiat Bold", 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: none;
+    border: solid 1px #3E4095;
+    border-radius: 8px;
+    background: #fff;
+    color: #1860DB;
+    padding:5px;
+    margin-left: 7px;
+    
+}
+span{
+    color: #fff;
+}
+
+main{
+    text-align: center;
+   
+    
+}
+.container{
+    background: #fff;
+    border: solid 3px #fff;
+    border-radius: 10px;
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 40px;
+    height: 120vh;
+    overflow-y: auto;
+    
+    
+}
+.lista-paginas{
+    width: auto;
+    height: auto;
+    position: relative;
+}
+
+.pagina {
+    opacity: 0;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: absolute;
+    padding: 12px;
+    transition: opacity 0.3s ease-in-out;            
+}     
+.pagina.selecionado {
+    opacity: 1;
+    z-index: 1;
+}
+
+.header{
+   
+    width: 90%;
+    height: 95%;
+    margin-left: 45px;
+    margin-top: 50px;
+}
+.text-paginas{
+    text-transform: uppercase;
+    font-family: "Benguiat Bold", 'Times New Roman', Times, serif;
+    color: #1860DB;
+    margin-bottom: 20px;
+
+}
+
+#contact{
+    text-transform: uppercase;
+    font-family: "Benguiat Bold", 'Times New Roman', Times, serif;
+    color: #1860DB;
+    margin-bottom: 20px;
+    margin-top: 80px;
+
+}
+.content-paragraph{
+    font-family: "Benguiat", 'Times New Roman', Times, serif;
+    text-align: justify;
+    width: 90%;
+    margin-left: 5%;
+}
+#seunome{
+    width: 100%;
+    margin-bottom: 25px;
+    outline: none;
+    height: 40px;
+    font-size: 20px;
+    appearance: none;
+    padding-left: 10px;
+    border: solid 3px #1860DB;
+    border-radius: 6px;
+   
+}
+select{
+    width: 50%;
+    margin: 17px 0;
+    outline: none;
+    height: 40px;
+    font-size: 20px;
+    appearance: none;
+    padding-left: 10px;
+    border: solid 2px #1860DB;
+    border-radius: 6px;
+    font-family: "Benguiat", 'Times New Roman', Times, serif;
+}
+.social-medias{
+    
+    padding-left: 10px;
+    border: solid 2px #1860DB;
+    border-radius: 3px;
+    height: 12px;
+    
+}
+option{
+    font-family: "Benguiat", 'Times New Roman', Times, serif;
+
+}
+.copy{
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-family: "Benguiat Bold", 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+
+

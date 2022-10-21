@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 21000 29700"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:url(#id0)}
+    .fil1 {fill:url(#id1)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="1399.58" y1="4705.76" x2="18482.06" y2="21632.98">
+   <stop offset="0" style="stop-opacity:1; stop-color:#1860DB"/>
+   <stop offset="0.258824" style="stop-opacity:1; stop-color:#244496"/>
+   <stop offset="0.509804" style="stop-opacity:1; stop-color:#798FC4"/>
+   <stop offset="0.74902" style="stop-opacity:1; stop-color:#6B86BF"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#2B298F"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="19600.44" y1="24984.24" x2="2517.94" y2="8057.01">
+  </linearGradient>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2213954298480">
+   <path class="fil0" d="M21072.58 -19.83c-1753.31,961.61 -3506.61,1923.26 -6072.14,2335.92 -2565.54,412.63 -5943.28,276.31 -8366.78,458.08 -2423.5,181.76 -3892.76,681.59 -4779.98,3711.7 -887.23,3030.09 -1192.41,8590.4 -1377.88,12024.03 -185.47,3433.67 -251.19,4740.63 -292.16,6195.29 -40.97,1454.7 -57.16,3057.12 -65.74,3905.89 -8.59,848.8 -9.56,944 -40.02,1001.51 -30.48,57.51 -90.47,77.36 -150.45,97.21 0,-9909.86 0,-19819.72 0,-29729.59 7048.39,0 14096.76,-0.04 21145.15,-0.04z"/>
+   <path class="fil1" d="M-72.58 29709.81c67.54,-44.72 135.08,-89.43 1035.03,-568.08 899.95,-478.65 2632.32,-1391.23 5187.37,-1779.38 2555.06,-388.11 5932.8,-251.79 8357.96,-446.89 2425.18,-195.06 3897.77,-721.55 4723.25,-2635.82 825.49,-1914.25 1003.88,-5216.32 1127.09,-7965.72 123.22,-2749.43 191.27,-4946.19 251.93,-7249.46 60.67,-2303.3 113.94,-4713.11 156.31,-6235.85 42.38,-1522.76 73.85,-2158.43 115.31,-2483.24 41.45,-324.8 92.89,-338.73 126.37,-347.77 33.48,-9.05 49.02,-13.24 64.55,-17.43 0,9909.9 0,19819.76 0,29729.66 -7048.39,0 -14096.78,-0.03 -21145.17,-0.02z"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,74 @@
+.form {
+    border: 3px solid #1860DB;
+    width: 100%;
+    justify-content: center;
+}
+.dv1 {
+    margin-top: 50px;
+    margin-bottom: 40px;
+    width: auto;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: "Benguiat", 'Times New Roman', Times, serif;
+}
+
+.div11 {
+    color: #1860DB;
+}
+
+.div12 {
+    width: 400px;
+    color: #1860DB;
+
+}
+
+.formulario {
+    width: auto;
+    height: 100%;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 60px;
+
+}
+.text {
+    color: #1860DB;
+    font-family: "Benguiat Bold", 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+#feedback{
+    color: black;
+    font-family: "Benguiat Bold", 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-bottom: 55px;
+}
+
+textarea:focus,
+input:focus,
+select:focus {
+
+    outline: 0;
+}
+
+
+input,
+textarea {
+    border: 3px solid #1860DB;
+    border-radius: 7px;
+    font-family: "Benguiat", 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.formulario button {
+    background-color: #1860DB;
+    border: 0;
+    color: #fff;
+    font-family: "Benguiat";
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 100%;
+}
