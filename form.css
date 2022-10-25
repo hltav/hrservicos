@@ -72,3 +72,29 @@ textarea {
     border-radius: 5px;
     font-size: 100%;
 }
+
+@media (max-width: 800px){
+
+    .form1{
+        margin-left: 5%;
+        width: 90%;
+    }
+    .formulario{
+        width: 90%;
+    }
+    .text{
+        font-size: 12px;
+        display: inline;
+    }
+    textarea{
+        width: 100%;
+    }
+    .div12{
+        width: 90%;
+    }
+    #feedback{
+        width: 100%;
+        font-size: 15px;
+    }
+
+}

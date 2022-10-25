@@ -29,8 +29,18 @@ function selectMenu(menu) {
     
 }
 
+const menuList = document.getElementsByClassName("menu-list")
+    menuList.style.maxHeigth = "0px"
 
+    function showMenu(){
+        if(menuList.style.maxHeight == "0px"){
+            menuList.style.maxHeight = "120px"
+        } else {
+            menuList.style.maxHeight = "0px"
+        }
+    }
 
+console.log(menuList)
 
 
 
